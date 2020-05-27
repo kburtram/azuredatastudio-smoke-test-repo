@@ -1,1 +1,1 @@
-select * from sys.objects
+select * from employees
